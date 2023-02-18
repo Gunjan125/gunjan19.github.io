@@ -33,3 +33,13 @@ header nav ul {
 header .nav logo span {
   color: purple;
 }
+header nav ul a {
+  color: black;
+}
+header nav ul a:hover {
+  color: purple;
+  text-decoration: underline;
+}
+header.nav-logo span {
+  color: purple;
+}
