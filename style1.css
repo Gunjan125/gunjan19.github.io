@@ -16,13 +16,12 @@ ul {
 img {
   width: 100%;
 }
-.container{
-    max-width: 1200px;
-    margin:auto;
-    padding-left: 20px;
-    padding-right: 20px;
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
-
 
 header nav {
   display: flex;
@@ -51,17 +50,9 @@ header nav ul a:hover {
 header.nav-logo span {
   color: purple;
 }
-@media screen and (max-width:768px) {
-    headernav ul{
-        display: none; 
-    }
+@media screen and (max-width: 768px) {
+  headernav ul {
+    display: none;
+  }
 }
-
-1200px
-
-992px
-
-768px
-
-540px
-
+@media;
