@@ -16,6 +16,9 @@ ul {
 img {
   width: 100%;
 }
+.container[
+    
+]
 header nav {
   display: flex;
   justify-content: space between;
@@ -43,3 +46,17 @@ header nav ul a:hover {
 header.nav-logo span {
   color: purple;
 }
+@media screen and (max-width:768px) {
+    headernav ul{
+        display: none; 
+    }
+}
+
+1200px
+
+992px
+
+768px
+
+540px
+
