@@ -16,3 +16,20 @@ ul {
 img {
   width: 100%;
 }
+header nav {
+  display: flex;
+  justify-content: space between;
+  align-items: center;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid rgba();
+}
+header nav ul {
+  dislay: flex;
+  justify-content: space between;
+  align-items: center;
+  gap: 2rem;
+}
+header .nav logo span {
+  color: purple;
+}
